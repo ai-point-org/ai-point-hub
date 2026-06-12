@@ -49,6 +49,8 @@
 | 模块四：进阶机器学习 (5节) | 分析式AI基础（十大算法）；<br>行业AI算法（金融/制造/快消）；<br>XGBoost/LightGBM；<br>时间序列模型；<br>时间序列AI大赛 | XGBoost、LightGBM、Prophet、Transformer |
 | 模块五：企业级项目实战 (4节) | 企业知识库系统（RAG+向量数据库）；<br>交互式BI报表（Text2SQL+可视化）；<br>AI运营助手（个性化推荐+Agent）；<br>AI搜索类应用 | RAG、Text2SQL、Agent、Vector DB、Prompt工程 |
 
+---
+
 ### 学完你将具备
 
 - ✅ 独立部署 DeepSeek 等大模型，掌握 Prompt 工程
@@ -59,6 +61,7 @@
 - ✅ 掌握视觉大模型并在视频理解等场景落地
 - ✅ 获得四个完整企业级项目源码，可直接用于求职或接项目
 
+---
 
 ## 🤝 深度交流与进阶学习
 
