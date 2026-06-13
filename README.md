@@ -72,7 +72,7 @@
 - **职业支持**：简历模板、面试题库、大厂内推机会
 
 <p align="center">
-  <img src="你的微信二维码" alt="微信二维码" width="200"/>
+  <img src="https://www.linkmes.com.cn/assets/img/wo.png" alt="微信二维码" width="300"/>
 </p>
 <p align="center"><b>扫码添加微信，备注“AI”，邀请你进入开发者技术交流群</b></p>
 
