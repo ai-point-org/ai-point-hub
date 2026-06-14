@@ -33,7 +33,7 @@
 
 | 项目 | 技术栈 | 核心能力 | 源码 |
 |------|--------|----------|------|
-| **源点BI** | Spring Boot + MyBatis + LLM | 自然语言→SQL→图表→分析报告 | [源点BI]() |
+| **源点BI** | Vanna NL2SQL + Vue 3 + FastAPI  + LLM | 自然语言→SQL→图表→分析报告 | [源点BI]() |
 | **源点RAG** | Dify + Python + FAISS | 知识库构建、RAG检索增强 | [源点RAG]() |
 | **源点Vision** | FastAPI + OpenCV + ViT | 图像识别、OCR、人脸检测、视频理解 | [源点Vision]() |
 
